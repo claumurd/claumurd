@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @claumurd
 - 👀 I’m interested in learn how to apply ML for Predictive Maintenance
-- 🌱 I’m currently learning Machine Learning
+- 🌱 I’m currently learning Data Science
 
 
 
